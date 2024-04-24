@@ -1,79 +1,65 @@
+# Intervieweur IA - Version 0.1.2
 
+Bienvenue sur Intervieweur IA ! 👏 Intervieweur IA est une application de pointe alimentée par l'intelligence artificielle générative conçue pour conduire des entretiens simulés. Avec la capacité d'analyser votre CV téléchargé et les descriptions de poste, Intervieweur IA génère des questions personnalisées pour améliorer votre préparation aux entretiens. Vous avez même la possibilité de personnaliser votre propre expérience d'entretien !
 
-# AI Interviewer - Version 0.1.2
+## Table des Matières
 
-Welcome to AI Interviewer! 👏 AI Interviewer is a cutting-edge application powered by generative AI designed to conduct mock interviews. With the ability to analyze your uploaded resume and job descriptions, AI Interviewer generates tailored questions to enhance your interview preparation. You even have the flexibility to customize your own interviewing experience!
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Getting Started](#getting-started)
-- [Features](#features)
-- [Upcoming Updates](#upcoming-updates)
-- [Feedback](#feedback)
+- [Présentation](#présentation)
+- [Pour Commencer](#pour-commencer)
+- [Fonctionnalités](#fonctionnalités)
+- [Mises à Jour à Venir](#mises-à-jour-à-venir)
+- [Retours](#retours)
 - [Contact](#contact)
-<!-- - [Acknowledgments](#acknowledgments) -->
+<!-- - [Remerciements](#remerciements) -->
 
-## Overview
+## Présentation
 
-AI Interviewer aims to revolutionize your interview preparation process. Whether you're seeking to improve your technical skills, communication abilities, or adaptability, this application can assist you. Powered by cutting-edge technology from OpenAI, FAISS, and Langchain, AI Interviewer provides a seamless experience that simulates real interview scenarios.
+Intervieweur IA vise à révolutionner votre processus de préparation aux entretiens. Que vous cherchiez à améliorer vos compétences techniques, vos capacités de communication ou votre adaptabilité, cette application peut vous aider. Alimentée par les technologies de pointe d'OpenAI, FAISS et Langchain, Intervieweur IA offre une expérience fluide qui simule des scénarios d'entretiens réels.
 
-## Getting Started
+## Pour Commencer
 
-To begin your AI Interviewer experience, follow these simple steps:
+Pour débuter votre expérience avec Intervieweur IA, suivez ces étapes simples :
 
-1. **Select Interview Type:** Choose from the following interview screens:
-   - **Homepage:** Overview of AI Interviewer.
-   - **Behavioral Screen:** Assess your behavioral skills.
-   - **Professional Screen:** Evaluate your technical skills.
-   - **Resume Screen:** Review your uploaded resume.
+1. **Sélectionnez le Type d'Entretien :** Choisissez parmi les écrans d'entretien suivants :
+   - **Page d'accueil :** Vue d'ensemble de Intervieweur IA.
+   - **Écran Comportemental :** Évaluez vos compétences comportementales.
+   - **Écran Professionnel :** Évaluez vos compétences techniques.
+   - **Écran CV :** Revoyez votre CV téléchargé.
    
-2. **Customize Your Experience:** Tailor your interview by uploading your resume and providing job descriptions.
+2. **Personnalisez Votre Expérience :** Personnalisez votre entretien en téléchargeant votre CV et en fournissant des descriptions de poste.
 
-3. **Choose Interaction Style:** Opt for your preferred interaction style, whether it's through chat or voice.
+3. **Choisissez le Style d'Interaction :** Optez pour votre style d'interaction préféré, que ce soit par chat ou par voix.
 
-4. **Start Interviewing:** Begin the interview by introducing yourself and responding to AI-generated questions.
+4. **Commencez les Entretiens :** Commencez l'entretien en vous présentant et en répondant aux questions générées par l'IA.
 
-## Features
+## Fonctionnalités
 
-- **Personalized Questions:** AI Interviewer generates interview questions customized to your uploaded resume and job descriptions.
+- **Questions Personnalisées :** Intervieweur IA génère des questions d'entretien personnalisées en fonction de votre CV téléchargé et des descriptions de poste.
 
-- **Multiple Screens:** Access different screens for behavioral, professional, and resume-related interview aspects.
+- **Différents Écrans :** Accédez à différents écrans pour les aspects comportementaux, professionnels et liés au CV de l'entretien.
 
-- **Interactive Experience:** Engage in a conversation with the AI interviewer, enhancing the realism of the interview process.
+- **Expérience Interactive :** Engagez-vous dans une conversation avec l'intervieweur IA, renforçant le réalisme du processus d'entretien.
 
-- **Easy Refresh:** Initiate a new interview session simply by refreshing the page.
+- **Rafraîchissement Facile :** Initiez une nouvelle session d'entretien simplement en rafraîchissant la page.
 
-- **Choice of Interaction:** Select between chat-based or voice-based interaction styles for your interviews.
+- **Choix d'Interaction :** Sélectionnez entre les styles d'interaction basés sur le chat ou la voix pour vos entretiens.
 
-## Upcoming Updates
+## Mises à Jour à Venir
 
-We are constantly working to improve AI Interviewer and bring you new features. In the pipeline:
+Nous travaillons constamment à améliorer Intervieweur IA et à vous proposer de nouvelles fonctionnalités. À venir :
 
-- Enhanced AI capabilities for even more realistic interviews.
-- Expanded question database for a wider range of industries and roles.
-- Improved voice interaction for a seamless experience.
+- Capacités IA améliorées pour des entretiens encore plus réalistes.
+- Base de données de questions élargie pour un plus large éventail d'industries et de rôles.
+- Interaction vocale améliorée pour une expérience sans accroc.
 
-## Feedback
+Intervieweur IA est alimenté par un mélange de technologies avancées :
 
-We highly value your feedback! Your insights can help us enhance AI Interviewer. Please take a moment to fill out our [Feedback Form](https://docs.google.com/forms/d/13f4q03bk4lD7sKR7qZ8UM1lQDo6NhRaAKv7uIeXHEaQ/viewform?edit_requested=true).
+- OpenAI : Fournit les capacités d'IA générative.
+- FAISS : Améliore les capacités de recherche et de récupération.
+- Langchain : Facilite les interactions en langage naturel.
 
-## Contact
-
-## Contact
-
-- GitHub: [jiatastic](https://github.com/jiatastic)
-
-<!-- ## Acknowledgments
-
-AI Interviewer is powered by a blend of advanced technologies:
-
-- OpenAI: Providing the generative AI capabilities.
-- FAISS: Enhancing search and retrieval capabilities.
-- Langchain: Facilitating natural language interactions.
-
-The application is proudly built with [Streamlit](https://streamlit.io/).
+L'application est fièrement développée avec [Streamlit](https://streamlit.io/).
 
 ---
 
-Remember, AI Interviewer is your partner in preparing for your future interviews. Sharpen your skills, boost your confidence, and seize those career opportunities with confidence! 🚀 -->
+Rappelez-vous, Intervieweur IA est votre partenaire dans la préparation de vos futurs entretiens. Affûtez vos compétences, boostez votre confiance et saisissez ces opportunités de carrière avec assurance ! 🚀
