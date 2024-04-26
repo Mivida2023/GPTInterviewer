@@ -2,7 +2,7 @@ langchain
 PyPDF2
 openai
 wave
-streamlit==1.25.0
+streamlit
 tiktoken
 nltk
 #azure-cognitiveservices-speech

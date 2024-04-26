@@ -161,3 +161,6 @@ cython_debug/
 
 # virtual environement
 .venv/
+
+.streamlit/secrets.toml
+aws/rootkey.csv
